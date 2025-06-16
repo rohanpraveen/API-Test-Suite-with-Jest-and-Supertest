@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Jest coverage
+coverage/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+
+# Mac files
+*.DS_Store
+
+# Build files
+dist/
+build/
+lib/
+temp/
+tmp/
