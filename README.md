@@ -31,8 +31,8 @@ The main aim is to validate functionality, robustness, error handling, and prope
 ### Installation
 
 ```bash
-git clone <your-repo-name>
-cd <your-repo-name>
+git clone https://github.com/rohanpraveen/API-Test-Suite-with-Jest-and-Supertest.git
+cd API-Test-Suite-with-Jest-and-Supertest
 npm install
 ```
 
